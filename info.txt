@@ -1,0 +1,4 @@
+http://localhost/BD_Legal_Aid_Justice_Center/admin/login.php
+
+email: admin@gmail.com
+pass: 1234
